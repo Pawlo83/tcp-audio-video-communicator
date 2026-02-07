@@ -23,7 +23,6 @@ Projekt implementuje serwer obsługujący komunikację między klientami poprzez
 ### Serwer
 * **Język:** C
 * **Biblioteki:** `sys/socket`, `pthread`, `netinet`
-* **Kluczowe pojęcia:** TCP Sockets, Mutex synchronization, Thread pooling, Memory management.
 
 ### Klient
 * **Język:** Python 3
